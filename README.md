@@ -12,4 +12,6 @@ rectories in the present working directory.![Screenshot_2024-05-09_04-39-12](htt
 6. rm: It stands for remove. It is used to delete file and directories from the file.![Screenshot_2024-05-09_13-14-27](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/f7411253-4955-47ba-97ae-dc74515fd56e)
 7. clear: It is used to clear the terminal screen by removing all private output and commands from view.
 ![Screenshot_2024-05-09_16-59-41](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/d53ce12e-9831-49b4-909a-dc8da5939929)
-
+8. touch: the touch commands is used to create an empty file or update the timestamps of existing files.
+![Screenshot_2024-05-09_17-16-47](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/73b07667-be8b-4a16-bcb1-32c8728b754d)
+9. 
