@@ -4,6 +4,5 @@
 ![Screenshot_2024-05-09_04-02-13](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/abc840ca-7b08-4898-bd93-0493a757335c)
 2. cd: It is a change directory command because it changes your current working directory to the specified directory.
 ![Screenshot_2024-05-09_04-33-26](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/9f40ca03-62ae-4c6d-b55e-043ed3974ef9)
-3. ls: It is the list of all the files di![Screenshot_2024-05-09_07-45-09](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/91a444bb-46d9-4c28-a850-59847c94fdaa)
+3. ls: It is the list of all the files di![Screenshot_2024-05-09_07-45-09]
 rectories in the present working directory.![Screenshot_2024-05-09_04-39-12](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/624a6de1-7568-44fe-9232-c702956da1a4)
-
