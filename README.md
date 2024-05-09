@@ -6,3 +6,5 @@
 ![Screenshot_2024-05-09_04-33-26](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/9f40ca03-62ae-4c6d-b55e-043ed3974ef9)
 3. ls: It is the list of all the files di![Screenshot_2024-05-09_07-45-09]
 rectories in the present working directory.![Screenshot_2024-05-09_04-39-12](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/624a6de1-7568-44fe-9232-c702956da1a4)
+4. cat: It is primarily used to display the content of the the file.![Uploading Screenshot_2024-05-09_12-36-16.png…]()
+
