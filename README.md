@@ -9,3 +9,4 @@ rectories in the present working directory.![Screenshot_2024-05-09_04-39-12](htt
 4. cat: It is primarily used to display the content of the the file.![Screenshot_2024-05-09_12-33-36](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/cf3f23a5-f1f5-415a-a924-ff1e5fcae8b9)
 5. mkdir: It stands for make directory. It is used to create new directories or folders within the system.
 ![Screenshot_2024-05-09_12-52-50](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/9d78e6d4-1ce1-4f37-8ac4-eed63734c01d)
+6. rm: It stands for remove. It is used to delete file and directories from the file.![Screenshot_2024-05-09_13-14-27](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/f7411253-4955-47ba-97ae-dc74515fd56e)
