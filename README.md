@@ -14,4 +14,6 @@ rectories in the present working directory.![Screenshot_2024-05-09_04-39-12](htt
 ![Screenshot_2024-05-09_16-59-41](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/d53ce12e-9831-49b4-909a-dc8da5939929)
 8. touch: the touch commands is used to create an empty file or update the timestamps of existing files.
 ![Screenshot_2024-05-09_17-16-47](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/73b07667-be8b-4a16-bcb1-32c8728b754d)
-9. 
+9. mv: It is used to move flies and directories from one location to another or to rename them.
+    ![Screenshot_2024-05-09_17-58-00](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/e984411f-3691-41fe-89cc-a6fe0bd94e5d)
+
