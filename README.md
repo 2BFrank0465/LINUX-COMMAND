@@ -16,4 +16,12 @@ rectories in the present working directory.![Screenshot_2024-05-09_04-39-12](htt
 ![Screenshot_2024-05-09_17-16-47](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/73b07667-be8b-4a16-bcb1-32c8728b754d)
 9. mv: It is used to move flies and directories from one location to another or to rename them.
     ![Screenshot_2024-05-09_17-58-00](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/e984411f-3691-41fe-89cc-a6fe0bd94e5d)
+10. whoami: It is used to print the username of the current user. It is the simple way to confirm the identity of the user currently logged into the system.
+![Screenshot_2024-05-09_18-10-22](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/af643c54-1b90-449e-aef9-717057151158)
+11. rmdir: It means remove directory. It is used to remove empty directories from the file system.
+    ![Screenshot_2024-05-09_18-26-32](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/20b9896a-39e1-4211-946d-3d8aa70132a2)
+12. man: It is used to display manual pages for other commands or programs installed on your system.
+![Screenshot_2024-05-09_18-37-44](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/f145bd3c-ab97-48d8-a9b7-281c1dade4b0)
+
+
 
