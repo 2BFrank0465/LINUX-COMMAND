@@ -32,7 +32,10 @@ rectories in the present working directory.![Screenshot_2024-05-09_04-39-12](htt
 ![Screenshot_2024-05-10_09-50-00](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/300f4690-8866-42dd-8b90-53b743694505)
 18. sleep: It is delay for a specified time in seconds.
 ![Screenshot_2024-05-10_09-54-25](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/6f691d2c-26ce-477e-aa9b-5ff533e6d49a)
-19. reboot: reboots the OS. It is used to restart the system. It initiates the process of shutting down the system and restarting it.
+19. reboot: reboots the OS. It is used to restart the system. It initiates the process of shutting down the system and restarting it. ![Screenshot_2024-05-10_10-08-35](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/aba23a5c-e405-4d63-b2eb-fed6fce0f6c6)
+20. vi: It is a screen editor that comes with practically every UNIX system.
+
+![Screenshot_2024-05-10_10-35-12](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/9daf7e2a-8348-4700-b81d-6f25e5305158)
 
 
 
