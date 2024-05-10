@@ -39,7 +39,12 @@ rectories in the present working directory.![Screenshot_2024-05-09_04-39-12](htt
 ![Screenshot_2024-05-10_10-37-28](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/afb8d087-2a8e-4e7c-bb62-5c71297794b9)
 22. echo: It is used to display text or variable in the terminal.It simply print the specified text or the value of a variable to the terminal window.
 ![Screenshot_2024-05-10_12-15-18](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/06c51ac9-5a87-4bbc-ba03-2d434866be95)
-23.
+23. cp: It is used to copy files and directories from one location to another. It allows you to duplicate files and directories, either within the same directories or a different directory.
+![Screenshot_2024-05-10_12-40-04](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/373a68f1-416a-45c6-a90b-b78fb80d8c67)
+24. hostname: It is used to display a set of hostname of the system. A hostname is a label assigned to a device on a network and it is used to identify the device within a network environment.
+![Screenshot_2024-05-10_12-57-24](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/000394a9-7355-472a-bba3-fa32d743d59f)
+25. 
+
 
 
 
