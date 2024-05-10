@@ -1,4 +1,4 @@
-# LINUX-COMMAND
+![Screenshot_2024-05-10_09-06-00](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/4a66341a-eaab-47f7-85e0-7f81193e8f77)![Screenshot_2024-05-10_09-06-00](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/3a233793-6763-4836-87e7-77ce970f6cba)# LINUX-COMMAND
 50 Linux Commands and it functions
 1. pwd: It is a present working directory command and it shows you which directory you are currently in
 ![Screenshot_2024-05-09_04-02-13](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/abc840ca-7b08-4898-bd93-0493a757335c)
@@ -25,8 +25,13 @@ rectories in the present working directory.![Screenshot_2024-05-09_04-39-12](htt
 13. ifconfig: It is used to display network details.![Screenshot_2024-05-10_07-38-08](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/c8e0b87e-586c-4e3a-b3f0-443378b13ad3)
 14. sudo: It stands for superuser do. It is used to execute commands with elevated privilages, typically as root user or another specified user with administrative permissions.
     ![Screenshot_2024-05-10_07-54-05](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/bb990195-e86e-4681-9392-8cb911beed48)
-15. tree: It display the list of contents from a director in the three fashion. It shows the hierachy of directories along with the file contained within them.![Screenshot_2024-05-10_08-09-55](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/cf574702-e0af-495f-a254-582855bae5b7)
-16. 
+15. tree: It display the list of contents from a director in the three fashion. It shows the hierachy of directories along with the file contained within them.![Screenshot_2024-05-10_08-09-55](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/cf574702-e0af-495f-a254-582855bae5b7)![Screenshot_2024-05-10_08-26-26](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/4b793214-467a-4fbe-825d-a4f02a28f41c)
+16. wc: It display the number of lines, words, characters, and bytes.
+![Uploading Screenshot_2024-05-10_09-06-00.png…]()
+
+
+
+
 
 
 
