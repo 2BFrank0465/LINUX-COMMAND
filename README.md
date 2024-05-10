@@ -27,7 +27,8 @@ rectories in the present working directory.![Screenshot_2024-05-09_04-39-12](htt
     ![Screenshot_2024-05-10_07-54-05](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/bb990195-e86e-4681-9392-8cb911beed48)
 15. tree: It display the list of contents from a director in the three fashion. It shows the hierachy of directories along with the file contained within them.![Screenshot_2024-05-10_08-09-55](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/cf574702-e0af-495f-a254-582855bae5b7)![Screenshot_2024-05-10_08-26-26](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/4b793214-467a-4fbe-825d-a4f02a28f41c)
 16. wc: It display the number of lines, words, characters, and bytes.
-![Uploading Screenshot_2024-05-10_09-06-00.png…]()
+![Screenshot_2024-05-10_09-18-20](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/26145bd9-fac9-42bb-abba-14a5746a5efa)
+
 
 
 
