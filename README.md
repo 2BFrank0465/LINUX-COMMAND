@@ -22,6 +22,12 @@ rectories in the present working directory.![Screenshot_2024-05-09_04-39-12](htt
     ![Screenshot_2024-05-09_18-26-32](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/20b9896a-39e1-4211-946d-3d8aa70132a2)
 12. man: It is used to display manual pages for other commands or programs installed on your system.
 ![Screenshot_2024-05-09_18-37-44](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/f145bd3c-ab97-48d8-a9b7-281c1dade4b0)
+13. ifconfig: It is used to display network details.![Screenshot_2024-05-10_07-38-08](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/c8e0b87e-586c-4e3a-b3f0-443378b13ad3)
+14. sudo: It stands for superuser do. It is used to execute commands with elevated privilages, typically as root user or another specified user with administrative permissions.
+    ![Screenshot_2024-05-10_07-54-05](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/bb990195-e86e-4681-9392-8cb911beed48)
+15. tree: It display the list of contents from a director in the three fashion. It shows the hierachy of directories along with the file contained within them.![Screenshot_2024-05-10_08-09-55](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/cf574702-e0af-495f-a254-582855bae5b7)
+16. 
 
 
 
+    
