@@ -47,6 +47,9 @@ rectories in the present working directory.![Screenshot_2024-05-09_04-39-12](htt
 25. chmod: It is used to change the access permissions of file and directories.
 ![Screenshot_2024-05-11_10-03-34](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/089184ce-c1d0-431c-a0b2-6c9d87f64f4c)
 26. ls -l: It is used to list files and directories in a long format with detailed information such permissions, owner ,group,size, and modifications.![Screenshot_2024-05-11_10-10-03](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/36357767-5e4f-4ddc-82b3-b2ca773a2ccc)
+27. nano: It is used in the terminmal for editing text files directly within the line environment. ![Screenshot_2024-05-11_10-45-07](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/1dc5a853-04cb-4cd2-bc75-01691c7eb89a)
+
+
 
 
 
