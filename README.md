@@ -1,4 +1,4 @@
-![Screenshot_2024-05-10_09-06-00](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/4a66341a-eaab-47f7-85e0-7f81193e8f77)![Screenshot_2024-05-10_09-06-00](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/3a233793-6763-4836-87e7-77ce970f6cba)# LINUX-COMMAND
+![Screenshot_2024-05-11_10-10-03](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/b8e4c69d-fce2-4150-845b-44e515e3f0e6)![Screenshot_2024-05-10_09-06-00](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/4a66341a-eaab-47f7-85e0-7f81193e8f77)![Screenshot_2024-05-10_09-06-00](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/3a233793-6763-4836-87e7-77ce970f6cba)# LINUX-COMMAND
 50 Linux Commands and it functions
 1. pwd: It is a present working directory command and it shows you which directory you are currently in
 ![Screenshot_2024-05-09_04-02-13](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/abc840ca-7b08-4898-bd93-0493a757335c)
@@ -46,6 +46,9 @@ rectories in the present working directory.![Screenshot_2024-05-09_04-39-12](htt
 ![Screenshot_2024-05-10_12-57-24](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/000394a9-7355-472a-bba3-fa32d743d59f)
 25. chmod: It is used to change the access permissions of file and directories.
 ![Screenshot_2024-05-11_10-03-34](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/089184ce-c1d0-431c-a0b2-6c9d87f64f4c)
+26. ls -l: It is used to list files and directories in a long format with detailed information such permissions, owner ,group,size, and modifications.![Screenshot_2024-05-11_10-10-03](https://github.com/2BFrank0465/LINUX-COMMAND/assets/169309905/36357767-5e4f-4ddc-82b3-b2ca773a2ccc)
+
+
 
 
 
